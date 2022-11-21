@@ -1,7 +1,7 @@
 # Praktikum-4
 
-Nama: Muhamad Faisal Ilham
-Nim: 312210322
+# Nama: Muhamad Faisal Ilham
+# Nim: 312210322
 
 Gunakan while untuk memasukkan data secara berulang bulang dan masukkan input ()
 
